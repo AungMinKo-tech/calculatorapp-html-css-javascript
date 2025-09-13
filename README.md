@@ -17,3 +17,6 @@ This project demonstrates DOM manipulation, event handling, and basic arithmetic
 - Clear and reset functions  
 - Responsive design for all screen sizes  
 - User-friendly interface  
+
+## Image
+<img src="pic.png" width="300px">
